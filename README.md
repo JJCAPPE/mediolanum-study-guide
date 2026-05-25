@@ -49,11 +49,3 @@ The guide is structured as a one-week preparation plan:
 - Day 7: technical bridge, integrated case study, resources, glossary, interview prep, and final cheat sheet.
 
 The content is for internship preparation only. It is not investment, legal, compliance, or employment advice.
-
-## Maintenance Notes
-
-- Edit `main.tex` for content changes.
-- Keep static visual assets under `Images/`.
-- Keep rendered preview images under `build_preview/`.
-- Keep `.log` files under `logs/` after builds so source files and generated diagnostics are separated.
-- Rebuild the PDF after content or asset changes and check representative pages before sharing.
