@@ -20,18 +20,18 @@
 \contentsline {chapter}{\numberline {6}Day 5: Machine Learning and Data Pipelines}{22}{chapter.6}%
 \contentsline {section}{\numberline {6.1}Module 9 - Machine Learning Use Cases in Client Marketing}{22}{section.6.1}%
 \contentsline {section}{\numberline {6.2}Module 10 - Data Engineering and Analytics Pipeline}{23}{section.6.2}%
-\contentsline {chapter}{\numberline {7}Day 6: Metrics, Experimentation, Compliance, and Governance}{25}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Module 11 - Metrics, Experimentation, and Business Impact}{25}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Module 12 - Compliance, Privacy, and Model Governance}{26}{section.7.2}%
-\contentsline {chapter}{\numberline {8}Day 7: Technical Bridge and Integrated Case Study}{28}{chapter.8}%
-\contentsline {section}{\numberline {8.1}Module 13 - Technical Skill Bridge for the Internship}{28}{section.8.1}%
-\contentsline {section}{\numberline {8.2}Module 14 - Integrated Mediolanum Case Study}{29}{section.8.2}%
-\contentsline {subsection}{\numberline {8.2.1}Case Walkthrough}{30}{subsection.8.2.1}%
-\contentsline {chapter}{\numberline {9}Resources, Glossary, Interview Prep, and Cheat Sheet}{33}{chapter.9}%
-\contentsline {section}{\numberline {9.1}Resource List With Links}{33}{section.9.1}%
-\contentsline {section}{\numberline {9.2}Header Image Credits}{34}{section.9.2}%
-\contentsline {section}{\numberline {9.3}Interview and Internship Prep Questions}{34}{section.9.3}%
-\contentsline {section}{\numberline {9.4}Glossary}{35}{section.9.4}%
-\contentsline {section}{\numberline {9.5}Final Cheat Sheet}{36}{section.9.5}%
-\contentsline {section}{\numberline {9.6}Final Study Task}{36}{section.9.6}%
+\contentsline {chapter}{\numberline {7}Day 6: Metrics, Experimentation, Compliance, and Governance}{26}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Module 11 - Metrics, Experimentation, and Business Impact}{26}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Module 12 - Compliance, Privacy, and Model Governance}{27}{section.7.2}%
+\contentsline {chapter}{\numberline {8}Day 7: Technical Bridge and Integrated Case Study}{29}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Module 13 - Technical Skill Bridge for the Internship}{29}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Module 14 - Integrated Mediolanum Case Study}{30}{section.8.2}%
+\contentsline {subsection}{\numberline {8.2.1}Case Walkthrough}{31}{subsection.8.2.1}%
+\contentsline {chapter}{\numberline {9}Resources, Glossary, Interview Prep, and Cheat Sheet}{34}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Resource List With Links}{34}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Header Image Credits}{35}{section.9.2}%
+\contentsline {section}{\numberline {9.3}Interview and Internship Prep Questions}{35}{section.9.3}%
+\contentsline {section}{\numberline {9.4}Glossary}{36}{section.9.4}%
+\contentsline {section}{\numberline {9.5}Final Cheat Sheet}{37}{section.9.5}%
+\contentsline {section}{\numberline {9.6}Final Study Task}{37}{section.9.6}%
 \contentsfinish 
