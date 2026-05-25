@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.11)  25 MAY 2026 15:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.11)  25 MAY 2026 15:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1505,11 +1505,11 @@ al/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc} <./Images/background.pd
 f>]
 
 [2]
-<Images/orange1.jpg, id=22, 1644.1425pt x 734.745pt>
-File: Images/orange1.jpg Graphic file (type jpg)
-<use Images/orange1.jpg>
-Package pdftex.def Info: Images/orange1.jpg  used on input line 115.
-(pdftex.def)             Requested size: 597.50787pt x 267.01932pt.
+<Images/header_study.jpg, id=22, 722.7pt x 248.93pt>
+File: Images/header_study.jpg Graphic file (type jpg)
+<use Images/header_study.jpg>
+Package pdftex.def Info: Images/header_study.jpg  used on input line 115.
+(pdftex.def)             Requested size: 597.50787pt x 205.81038pt.
 LaTeX Font Info:    Font shape `T1/pag/b/n' in size <20.74> not available
 (Font)              Font shape `T1/pag/db/n' tried instead on input line 115.
 LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
@@ -1569,7 +1569,7 @@ LaTeX Font Info:    Font shape `T1/pag/b/n' in size <10.95> not available
 
 [3
 
- <./Images/orange1.jpg>])
+ <./Images/header_study.jpg>])
 \tf@toc=\write6
 \openout6 = `mediolanum_study_guide.toc'.
 
@@ -1577,11 +1577,12 @@ LaTeX Font Info:    Font shape `T1/pag/b/n' in size <10.95> not available
 
 [4]
 Chapter 1.
-<Images/orange2.jpg, id=172, 1300.86pt x 602.25pt>
-File: Images/orange2.jpg Graphic file (type jpg)
-<use Images/orange2.jpg>
-Package pdftex.def Info: Images/orange2.jpg  used on input line 120.
-(pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
+<Images/header_mediolanum_hq.jpg, id=176, 1355.0625pt x 466.74374pt>
+File: Images/header_mediolanum_hq.jpg Graphic file (type jpg)
+<use Images/header_mediolanum_hq.jpg>
+Package pdftex.def Info: Images/header_mediolanum_hq.jpg  used on input line 12
+0.
+(pdftex.def)             Requested size: 597.50787pt x 205.81656pt.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 126.
@@ -1590,17 +1591,17 @@ Package mdframed Info: mdframed detected package amsthm
 [5
 
 
- <./Images/orange2.jpg>]
+ <./Images/header_mediolanum_hq.jpg>]
 
 [6]
 Chapter 2.
-File: Images/orange2.jpg Graphic file (type jpg)
-<use Images/orange2.jpg>
-Package pdftex.def Info: Images/orange2.jpg  used on input line 174.
-(pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
+File: Images/header_study.jpg Graphic file (type jpg)
+<use Images/header_study.jpg>
+Package pdftex.def Info: Images/header_study.jpg  used on input line 175.
+(pdftex.def)             Requested size: 597.50787pt x 205.81038pt.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 200.
+(mdframed)              on input line 201.
 
 
 [7
@@ -1609,18 +1610,20 @@ Package mdframed Info: mdframed detected package amsthm
 
 [8]
 Chapter 3.
-File: Images/orange1.jpg Graphic file (type jpg)
-<use Images/orange1.jpg>
-Package pdftex.def Info: Images/orange1.jpg  used on input line 205.
-(pdftex.def)             Requested size: 597.50787pt x 267.01932pt.
+<Images/header_milan_skyline.jpg, id=198, 542.025pt x 186.6975pt>
+File: Images/header_milan_skyline.jpg Graphic file (type jpg)
+<use Images/header_milan_skyline.jpg>
+Package pdftex.def Info: Images/header_milan_skyline.jpg  used on input line 20
+6.
+(pdftex.def)             Requested size: 597.50787pt x 205.81512pt.
 
-Overfull \hbox (0.42285pt too wide) in paragraph at lines 218--218
+Overfull \hbox (0.42285pt too wide) in paragraph at lines 219--219
    [] \T1/ptm/m/n/10.95 (-20) Marketing Clienti does not market isolated produc
 ts in a vacuum. It supports a
  []
 
 
-Overfull \hbox (49.60167pt too wide) in paragraph at lines 218--218
+Overfull \hbox (49.60167pt too wide) in paragraph at lines 219--219
    [] \T1/ptm/m/n/10.95 (-20) Fam-ily Banker, client-centric model, multi-chann
 el bank-ing, bank-ing/investing/insurance
  []
@@ -1629,7 +1632,7 @@ el bank-ing, bank-ing/investing/insurance
 
 [9
 
-]
+ <./Images/header_milan_skyline.jpg>]
 
 [10]
 
@@ -1639,12 +1642,14 @@ el bank-ing, bank-ing/investing/insurance
 
 [13]
 Chapter 4.
-File: Images/orange2.jpg Graphic file (type jpg)
-<use Images/orange2.jpg>
-Package pdftex.def Info: Images/orange2.jpg  used on input line 360.
-(pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
+<Images/header_business_meeting.jpg, id=239, 542.025pt x 186.6975pt>
+File: Images/header_business_meeting.jpg Graphic file (type jpg)
+<use Images/header_business_meeting.jpg>
+Package pdftex.def Info: Images/header_business_meeting.jpg  used on input line
+ 361.
+(pdftex.def)             Requested size: 597.50787pt x 205.81512pt.
 
-Overfull \hbox (13.10634pt too wide) in paragraph at lines 388--388
+Overfull \hbox (13.10634pt too wide) in paragraph at lines 389--389
  [][]\T1/pag/m/n/9 (-20) Compliance/legal 
  []
 
@@ -1652,15 +1657,15 @@ Overfull \hbox (13.10634pt too wide) in paragraph at lines 388--388
 
 [14
 
-]
-Overfull \hbox (3.37624pt too wide) in paragraph at lines 410--410
+ <./Images/header_business_meeting.jpg>]
+Overfull \hbox (3.37624pt too wide) in paragraph at lines 411--411
  [][]\T1/pag/m/n/10 (-20) Measurement 
  []
 
 
 Package pgf Warning: Returning node center instead of a point on node border. D
 id you specify a point identical to the center of node ``target''? on input lin
-e 410.
+e 411.
 
 
 
@@ -1668,7 +1673,7 @@ e 410.
 
 Package pgf Warning: Returning node center instead of a point on node border. D
 id you specify a point identical to the center of node ``re''? on input line 44
-3.
+4.
 
 
 
@@ -1676,17 +1681,18 @@ id you specify a point identical to the center of node ``re''? on input line 44
 
 [17]
 Chapter 5.
-<Images/orange3.jpg, id=260, 1409.265pt x 666.49pt>
-File: Images/orange3.jpg Graphic file (type jpg)
-<use Images/orange3.jpg>
-Package pdftex.def Info: Images/orange3.jpg  used on input line 521.
-(pdftex.def)             Requested size: 597.50787pt x 282.5782pt.
+<Images/header_analytics_dashboard.jpg, id=266, 903.375pt x 311.1625pt>
+File: Images/header_analytics_dashboard.jpg Graphic file (type jpg)
+<use Images/header_analytics_dashboard.jpg>
+Package pdftex.def Info: Images/header_analytics_dashboard.jpg  used on input l
+ine 522.
+(pdftex.def)             Requested size: 597.50787pt x 205.81894pt.
 
 
 [18
 
- <./Images/orange3.jpg>]
-Overfull \hbox (0.53078pt too wide) in paragraph at lines 584--584
+ <./Images/header_analytics_dashboard.jpg>]
+Overfull \hbox (0.53078pt too wide) in paragraph at lines 585--585
  [][]\T1/pag/m/n/10 (-20) Measurement 
  []
 
@@ -1698,12 +1704,14 @@ Overfull \hbox (0.53078pt too wide) in paragraph at lines 584--584
 
 [21]
 Chapter 6.
-File: Images/orange1.jpg Graphic file (type jpg)
-<use Images/orange1.jpg>
-Package pdftex.def Info: Images/orange1.jpg  used on input line 649.
-(pdftex.def)             Requested size: 597.50787pt x 267.01932pt.
+<Images/header_data_center.jpg, id=292, 542.025pt x 186.6975pt>
+File: Images/header_data_center.jpg Graphic file (type jpg)
+<use Images/header_data_center.jpg>
+Package pdftex.def Info: Images/header_data_center.jpg  used on input line 650.
 
-Overfull \hbox (7.1658pt too wide) in paragraph at lines 677--677
+(pdftex.def)             Requested size: 597.50787pt x 205.81512pt.
+
+Overfull \hbox (7.1658pt too wide) in paragraph at lines 678--678
 []|\T1/ptm/m/n/9 (-20) classification/ranking|  
  []
 
@@ -1711,45 +1719,49 @@ Overfull \hbox (7.1658pt too wide) in paragraph at lines 677--677
 
 [22
 
-]
+ <./Images/header_data_center.jpg>]
 
 [23]
 
 [24]
 Chapter 7.
-File: Images/orange2.jpg Graphic file (type jpg)
-<use Images/orange2.jpg>
-Package pdftex.def Info: Images/orange2.jpg  used on input line 779.
-(pdftex.def)             Requested size: 597.50787pt x 276.62482pt.
+<Images/header_eu_parliament.jpg, id=317, 433.62pt x 149.358pt>
+File: Images/header_eu_parliament.jpg Graphic file (type jpg)
+<use Images/header_eu_parliament.jpg>
+Package pdftex.def Info: Images/header_eu_parliament.jpg  used on input line 78
+0.
+(pdftex.def)             Requested size: 597.50787pt x 205.83392pt.
 
 
 [25
 
-]
+ <./Images/header_eu_parliament.jpg>]
 
 [26]
 
 [27]
 Chapter 8.
-File: Images/orange3.jpg Graphic file (type jpg)
-<use Images/orange3.jpg>
-Package pdftex.def Info: Images/orange3.jpg  used on input line 886.
-(pdftex.def)             Requested size: 597.50787pt x 282.5782pt.
+<Images/header_laptop_code.jpg, id=340, 1806.75pt x 622.325pt>
+File: Images/header_laptop_code.jpg Graphic file (type jpg)
+<use Images/header_laptop_code.jpg>
+Package pdftex.def Info: Images/header_laptop_code.jpg  used on input line 887.
+
+(pdftex.def)             Requested size: 597.50787pt x 205.81418pt.
 
 
 [28
 
-]
+ <./Images/header_laptop_code.jpg>]
 
 [29]
 
 [30]
-Overfull \hbox (1.03229pt too wide) in paragraph at lines 1008--1008
+Overfull \hbox (1.03229pt too wide) in paragraph at lines 1009--1009
  [][]\T1/pag/m/n/10 (-20) Governance 
  []
 
 
-Overfull \hbox (25.97803pt too wide) in paragraph at lines 1048--1048
+Overfull \hbox (25.97803pt too wide) in paragraph at lines 1049--1049
  [][]\T1/pag/m/n/10 (-20) Advisor/campaign 
  []
 
@@ -1759,40 +1771,43 @@ Overfull \hbox (25.97803pt too wide) in paragraph at lines 1048--1048
 
 [32]
 Chapter 9.
-File: Images/orange1.jpg Graphic file (type jpg)
-<use Images/orange1.jpg>
-Package pdftex.def Info: Images/orange1.jpg  used on input line 1069.
-(pdftex.def)             Requested size: 597.50787pt x 267.01932pt.
+<Images/header_library.jpg, id=373, 1806.75pt x 622.325pt>
+File: Images/header_library.jpg Graphic file (type jpg)
+<use Images/header_library.jpg>
+Package pdftex.def Info: Images/header_library.jpg  used on input line 1070.
+(pdftex.def)             Requested size: 597.50787pt x 205.81418pt.
 [33
 
-]
+ <./Images/header_library.jpg>]
+Underfull \hbox (badness 10000) in alignment at lines 1123--1123
+[][][] 
+ []
 
 [34]
-Underfull \hbox (badness 6625) in paragraph at lines 1134--1135
+Underfull \hbox (badness 6625) in paragraph at lines 1157--1158
 \T1/ptm/m/n/10.95 (+20) Attracting and re-tain-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1136--1137
+Underfull \hbox (badness 10000) in paragraph at lines 1159--1160
 \T1/ptm/m/n/10.95 (+20) Insurance dis-tributed
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1142--1143
+Underfull \hbox (badness 10000) in paragraph at lines 1165--1166
    [] \T1/ptm/m/n/10.95 (+20) Un-ex-posed com-par-i-son
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1153--1154
+Underfull \hbox (badness 10000) in paragraph at lines 1176--1177
    [] \T1/ptm/m/n/10.95 (+20) Know your cus-tomer
  []
 
+[35]
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 1170.
+(mdframed)              on input line 1193.
 
-
-[35]
 
 [36] (./mediolanum_study_guide.aux)
  ***********
@@ -1804,21 +1819,21 @@ Package logreq Info: Writing requests to 'mediolanum_study_guide.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 36446 strings out of 473362
- 679832 string characters out of 11470983
- 13516686 words of memory out of 22000000
- 58477 multiletter control sequences out of 15000+600000
- 657144 words of font info for 364 fonts, out of 12000000 for 9000
+ 36505 strings out of 473362
+ 682096 string characters out of 11470983
+ 13516691 words of memory out of 22000000
+ 58532 multiletter control sequences out of 15000+600000
+ 657274 words of font info for 366 fonts, out of 12000000 for 9000
  1141 hyphenation exceptions out of 8191
  98i,12n,101p,1181b,858s stack positions out of 10000i,1000n,20000p,12000000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/urw/avantgar/uagd8a.pfb></usr
 /local/texlive/2024/texmf-dist/fonts/type1/urw/avantgar/uagk8a.pfb></usr/local/
 texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/20
 24/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on mediolanum_study_guide.pdf (36 pages, 791348 bytes).
+Output written on mediolanum_study_guide.pdf (36 pages, 2652357 bytes).
 PDF statistics:
- 589 PDF objects out of 1000 (max. 8388607)
- 499 compressed objects within 5 object streams
- 129 named destinations out of 1000 (max. 500000)
- 111417 words of extra memory for PDF output out of 128383 (max. 10000000)
+ 621 PDF objects out of 1000 (max. 8388607)
+ 514 compressed objects within 6 object streams
+ 130 named destinations out of 1000 (max. 500000)
+ 111455 words of extra memory for PDF output out of 128383 (max. 10000000)
 

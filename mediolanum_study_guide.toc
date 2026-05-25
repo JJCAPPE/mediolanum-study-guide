@@ -29,8 +29,9 @@
 \contentsline {subsection}{\numberline {8.2.1}Case Walkthrough}{30}{subsection.8.2.1}%
 \contentsline {chapter}{\numberline {9}Resources, Glossary, Interview Prep, and Cheat Sheet}{33}{chapter.9}%
 \contentsline {section}{\numberline {9.1}Resource List With Links}{33}{section.9.1}%
-\contentsline {section}{\numberline {9.2}Interview and Internship Prep Questions}{34}{section.9.2}%
-\contentsline {section}{\numberline {9.3}Glossary}{34}{section.9.3}%
-\contentsline {section}{\numberline {9.4}Final Cheat Sheet}{35}{section.9.4}%
-\contentsline {section}{\numberline {9.5}Final Study Task}{36}{section.9.5}%
+\contentsline {section}{\numberline {9.2}Header Image Credits}{34}{section.9.2}%
+\contentsline {section}{\numberline {9.3}Interview and Internship Prep Questions}{34}{section.9.3}%
+\contentsline {section}{\numberline {9.4}Glossary}{35}{section.9.4}%
+\contentsline {section}{\numberline {9.5}Final Cheat Sheet}{36}{section.9.5}%
+\contentsline {section}{\numberline {9.6}Final Study Task}{36}{section.9.6}%
 \contentsfinish 
